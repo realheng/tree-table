@@ -1,0 +1,30 @@
+{
+  "title": "可伸缩列 - antd@4.9.1",
+  "scripts": {
+    "test": "react-scripts test --env=jsdom",
+    "start": "react-scripts start",
+    "eject": "react-scripts eject",
+    "build": "react-scripts build"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "react-scripts": "^4.0.0",
+    "react-resizable": "latest",
+    "react-dom": "^16.14.0",
+    "react": "^16.14.0",
+    "antd": "4.9.1",
+    "@ant-design/icons": "latest"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "keywords": [],
+  "name": "",
+  "description": ""
+}
