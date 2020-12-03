@@ -1,32 +1,30 @@
 {
-  "title": "可伸缩列 - antd@4.9.1",
+  "title": "拖拽排序 - antd@4.9.1",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "start": "react-scripts start",
+    "eject": "react-scripts eject",
+    "build": "react-scripts build"
   },
   "main": "index.js",
   "devDependencies": {
-    "react-scripts": "1.0.0",
+    "eslint-plugin-react": "^7.21.5",
     "typescript": "^4.0.5"
   },
   "dependencies": {
-    "react-scripts": "^4.0.0",
-    "react-resizable": "latest",
-    "react-dom": "^16.14.0",
-    "react": "^16.14.0",
+    "@ant-design/icons": "latest",
     "antd": "4.9.1",
-    "@ant-design/icons": "latest"
+    "immutability-helper": "latest",
+    "react": "^16.14.0",
+    "react-dnd": "latest",
+    "react-dnd-html5-backend": "latest",
+    "react-dom": "^16.14.0",
+    "react-scripts": "^4.0.0"
   },
   "browserslist": [
     ">0.2%",
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "keywords": [],
-  "name": "",
-  "description": null,
-  "version": "0.0.2"
+  ]
 }
